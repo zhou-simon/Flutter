@@ -15,4 +15,8 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
+
+基于Flutter 蓝牙插件做的配置WIFI的过程
+需要注意有些蓝牙版本的不一致，存在标准蓝牙协议和其他
+
 ![CX1Gjb.jpeg](https://i.imgs.ovh/2025/12/28/CX1Gjb.jpeg)
